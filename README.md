@@ -53,5 +53,5 @@ sui move test
 
 ```
 ## Contract
--Telegram: [@defai_maxi](https://t.me/defai_maxi)
--Twitter: [@defai_maxi](https://x.com/dfai_maxi)
+- Telegram: [@defai_maxi](https://t.me/defai_maxi)
+- Twitter: [@defai_maxi](https://x.com/dfai_maxi)
